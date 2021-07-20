@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '525aeb57d4ab08988d2620625ad7e08df6932ef9',
+    'reference' => '98566b3554bc08647193b07bdcfa943021460d2c',
     'name' => 'drupal/legacy-project',
   ),
   'versions' => 
@@ -605,6 +605,15 @@
         0 => '8.9.16',
       ),
     ),
+    'drupal/honeypot' => 
+    array (
+      'pretty_version' => '2.0.1',
+      'version' => '2.0.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '2.0.1',
+    ),
     'drupal/image' => 
     array (
       'replaced' => 
@@ -654,7 +663,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '525aeb57d4ab08988d2620625ad7e08df6932ef9',
+      'reference' => '98566b3554bc08647193b07bdcfa943021460d2c',
     ),
     'drupal/link' => 
     array (
