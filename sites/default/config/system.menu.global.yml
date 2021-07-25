@@ -1,0 +1,8 @@
+uuid: b34c366c-f2fa-40ea-938b-39d15319fd54
+langcode: en
+status: true
+dependencies: {  }
+id: global
+label: 'Global Footer menu'
+description: 'Menu below site footer, designed for more global UMD Links.'
+locked: false

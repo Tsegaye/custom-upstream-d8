@@ -1,0 +1,9 @@
+uuid: 885f8e89-7a12-47e2-9cb4-851a4df84598
+langcode: en
+status: true
+dependencies: {  }
+id: ut_carousel
+label: Carousel
+icon_uuid: null
+description: 'Provides a paragraphs bundle for embedding a carousel as a Kitchen Sink Widget.'
+behavior_plugins: {  }

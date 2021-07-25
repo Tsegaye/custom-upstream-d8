@@ -1,0 +1,8 @@
+uuid: 85c66cd1-e257-4353-bd79-f10dae58336f
+langcode: en
+status: true
+dependencies: {  }
+name: optimized
+label: Optimized
+effects: {  }
+pipeline: resmushit

@@ -1,0 +1,9 @@
+uuid: d60e69d2-0661-4ab1-9355-d69b31b09b77
+langcode: en
+status: true
+dependencies: {  }
+id: ut_accordion_item
+label: 'Accordion Item'
+icon_uuid: null
+description: 'Provides a paragraphs bundle for embedding individual accordions within the group.'
+behavior_plugins: {  }

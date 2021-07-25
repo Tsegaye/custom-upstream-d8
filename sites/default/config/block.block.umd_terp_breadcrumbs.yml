@@ -1,0 +1,30 @@
+uuid: e1def67a-edcc-4798-b3ab-836747c4b199
+langcode: en
+status: true
+dependencies:
+  module:
+    - ctools
+    - system
+  theme:
+    - umd_terp
+_core:
+  default_config_hash: oXUb3JZR2WW5VOdw4HrhRicCsq51mCgLfRyvheG68ck
+id: umd_terp_breadcrumbs
+theme: umd_terp
+region: breadcrumbs
+weight: -4
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  provider: system
+  label_display: '0'
+visibility:
+  'entity_bundle:node':
+    id: 'entity_bundle:node'
+    bundles:
+      umd_terp_homepage: umd_terp_homepage
+    negate: true
+    context_mapping:
+      node: '@node.node_route_context:node'

@@ -1,0 +1,9 @@
+uuid: f5d63b55-4b70-4556-b91c-a612ad22d7f9
+langcode: en
+status: true
+dependencies: {  }
+id: ut_view
+label: View
+icon_uuid: null
+description: 'Provides a paragraphs bundle for embedding a view as a Kitchen Sink Widget.'
+behavior_plugins: {  }

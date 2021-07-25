@@ -1,0 +1,9 @@
+uuid: fb8a466e-d2ee-410a-aa01-127548046b50
+langcode: en
+status: true
+dependencies: {  }
+id: ut_card_group
+label: 'Card Group'
+icon_uuid: null
+description: 'Provides a paragraphs bundle for embedding cards as a Kitchen Sink Widget.'
+behavior_plugins: {  }

@@ -1,0 +1,9 @@
+uuid: b7cdd549-a0c1-4287-bb98-9c3698984e55
+langcode: en
+status: true
+dependencies: {  }
+id: ut_stat_group
+label: 'Stat Group'
+icon_uuid: null
+description: 'Provides a paragraphs bundle for embedding statistics as a Kitchen Sink Widget.'
+behavior_plugins: {  }

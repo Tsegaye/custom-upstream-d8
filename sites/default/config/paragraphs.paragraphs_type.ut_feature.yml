@@ -1,0 +1,9 @@
+uuid: 7cf81530-243c-40f5-a593-31046c3faae3
+langcode: en
+status: true
+dependencies: {  }
+id: ut_feature
+label: Feature
+icon_uuid: null
+description: 'Provides a paragraphs bundle for embedding a feature as a Kitchen Sink Widget.'
+behavior_plugins: {  }

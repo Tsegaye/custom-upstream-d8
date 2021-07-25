@@ -1,0 +1,9 @@
+uuid: 75a996e9-09da-4fee-95f0-ef3e4e1c0ed1
+langcode: en
+status: true
+dependencies: {  }
+id: ut_link_set
+label: 'Link Set'
+icon_uuid: null
+description: 'Provides a paragraphs bundle for embedding link groups as a Kitchen Sink Widget.'
+behavior_plugins: {  }

@@ -1,0 +1,9 @@
+uuid: 814f1ad0-9aa3-4838-bc33-858dc61bb5a4
+langcode: en
+status: true
+dependencies: {  }
+id: ut_stat
+label: Stat
+icon_uuid: null
+description: 'Provides a paragraphs bundle for embedding an individual statistic into a group.'
+behavior_plugins: {  }

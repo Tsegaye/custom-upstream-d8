@@ -1,0 +1,9 @@
+uuid: 5b23c4f8-05fb-45e0-94e5-cc57862fc118
+langcode: en
+status: true
+dependencies: {  }
+id: ut_news
+label: 'News Feed'
+icon_uuid: null
+description: 'This widget provides a news feed from the UMD HUB.'
+behavior_plugins: {  }

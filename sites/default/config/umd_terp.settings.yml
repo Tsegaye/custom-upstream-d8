@@ -1,0 +1,19 @@
+features:
+  node_user_picture: 1
+  comment_user_picture: 1
+  comment_user_verification: 1
+  favicon: 1
+logo:
+  use_default: 1
+favicon:
+  use_default: 1
+umd_terp_address: '123 Street Name, College Park, MD 20742, USA'
+umd_terp_phone: 301.405.1000
+umd_terp_twitter_link: 'https://twitter.com/UofMaryland'
+umd_terp_facebook_link: 'https://www.facebook.com/UnivofMaryland'
+umd_terp_youtube_link: 'https://www.youtube.com/user/UMD2101'
+umd_terp_instagram_link: 'https://www.instagram.com/univofmaryland/'
+umd_terp_linkedin_link: 'https://www.linkedin.com/school/university-of-maryland/'
+umd_terp_assets_path: /static/build
+umd_terp_header_light: 0
+umd_terp_email: email@umd.edu

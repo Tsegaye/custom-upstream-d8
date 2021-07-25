@@ -1,0 +1,19 @@
+uuid: dfe52e91-2436-4900-b354-e01295d628f7
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_ut_video_caption
+    - paragraphs.paragraphs_type.ut_video
+id: paragraph.ut_video.field_ut_video_caption
+field_name: field_ut_video_caption
+entity_type: paragraph
+bundle: ut_video
+label: Caption
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

@@ -1,0 +1,23 @@
+uuid: e33c26a4-9c9c-480f-9722-9823cb33c6a7
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_ut_news_style
+    - paragraphs.paragraphs_type.ut_news
+  module:
+    - options
+id: paragraph.ut_news.field_ut_news_style
+field_name: field_ut_news_style
+entity_type: paragraph
+bundle: ut_news
+label: Style
+description: ''
+required: true
+translatable: false
+default_value:
+  -
+    value: card-group-bg-default
+default_value_callback: ''
+settings: {  }
+field_type: list_string

@@ -1,0 +1,9 @@
+uuid: 038d03c8-649f-4de1-9d17-d6ee1b62aefc
+langcode: en
+status: true
+dependencies: {  }
+id: ut_text_3_columns
+label: 'Text - 3 Columns'
+icon_uuid: null
+description: 'Provides a paragraphs bundle for embedding HTML/text in three columns as a Kitchen Sink Widgets.'
+behavior_plugins: {  }

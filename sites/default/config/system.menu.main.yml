@@ -1,0 +1,10 @@
+uuid: 882c2f1c-de84-40e7-ad31-c8b4977482ba
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: Q2Ra3jfoIVk0f3SjxJX61byRQFVBAbpzYDQOiY-kno8
+id: main
+label: 'Main Menu'
+description: 'Main menu for the site. It is used to run the main top navigation, as well as the sidebar.'
+locked: true

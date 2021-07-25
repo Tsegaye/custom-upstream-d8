@@ -1,0 +1,9 @@
+uuid: bf8ba5f6-623f-4ca1-9c14-f31650b2441c
+langcode: en
+status: true
+dependencies: {  }
+id: ut_webform
+label: Webform
+icon_uuid: null
+description: 'Provides a paragraphs bundle for embedding a webform as a Kitchen Sink Widget.'
+behavior_plugins: {  }

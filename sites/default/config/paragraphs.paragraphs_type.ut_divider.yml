@@ -1,0 +1,9 @@
+uuid: 4914b2fc-8a61-4938-b67b-9cf3c8e2a1f7
+langcode: en
+status: true
+dependencies: {  }
+id: ut_divider
+label: Divider
+icon_uuid: null
+description: 'Provides a paragraphs bundle for embedding a divider (HR) as a Kitchen Sink Widget.'
+behavior_plugins: {  }

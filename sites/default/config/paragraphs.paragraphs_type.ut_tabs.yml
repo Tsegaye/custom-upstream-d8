@@ -1,0 +1,9 @@
+uuid: f7ebb9c5-84a4-4335-a963-76e96d4ad4cf
+langcode: en
+status: true
+dependencies: {  }
+id: ut_tabs
+label: Tabs
+icon_uuid: null
+description: 'Provides a paragraphs bundle for embedding tabs as a Kitchen Sink Widget.'
+behavior_plugins: {  }

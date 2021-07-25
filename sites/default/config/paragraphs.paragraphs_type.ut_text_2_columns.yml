@@ -1,0 +1,9 @@
+uuid: cba40d31-f8a5-4ac2-a912-398c1c40478e
+langcode: en
+status: true
+dependencies: {  }
+id: ut_text_2_columns
+label: 'Text - 2 Columns'
+icon_uuid: null
+description: 'Provides a paragraphs bundle for embedding HTML/text in two columns as a Kitchen Sink Widgets.'
+behavior_plugins: {  }

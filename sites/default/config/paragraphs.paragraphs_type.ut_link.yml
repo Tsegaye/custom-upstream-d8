@@ -1,0 +1,9 @@
+uuid: 3ac017d2-4a3d-4b8c-82ac-b244c4aad1d8
+langcode: en
+status: true
+dependencies: {  }
+id: ut_link
+label: Link
+icon_uuid: null
+description: 'Provides a paragraphs bundle for embedding individual links within a group.'
+behavior_plugins: {  }

@@ -1,0 +1,9 @@
+uuid: dd4e57fb-16bd-4b31-91a0-e1b1eefdea19
+langcode: en
+status: true
+dependencies: {  }
+id: ut_text
+label: Text
+icon_uuid: null
+description: 'Provides a paragraphs bundle for embedding HTML/text as a Kitchen Sink Widgets.'
+behavior_plugins: {  }

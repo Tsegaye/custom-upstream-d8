@@ -1,0 +1,9 @@
+uuid: 0614e631-1f37-4f98-9ffa-e59ad686b301
+langcode: en
+status: true
+dependencies: {  }
+id: ut_slideshow_item
+label: 'Slideshow Item'
+icon_uuid: null
+description: 'Provides a paragraphs bundle for embedding an individual slideshow item into a group.'
+behavior_plugins: {  }

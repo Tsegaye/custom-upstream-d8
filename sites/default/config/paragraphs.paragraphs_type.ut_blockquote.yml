@@ -1,0 +1,9 @@
+uuid: 370c829d-b211-4f39-9385-7070e4ce3c96
+langcode: en
+status: true
+dependencies: {  }
+id: ut_blockquote
+label: Blockquote
+icon_uuid: null
+description: 'Provides a paragraphs bundle for embedding a blockquote as a Kitchen Sink Widget.'
+behavior_plugins: {  }
